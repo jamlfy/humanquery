@@ -1,0 +1,27 @@
+{
+	"name": "humanquery",
+	"version": "0.1.0",
+	"description": "Mongoose query language for humans inspired by Lucene",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:alejonext/humanquery.git"
+	},
+	"dependencies": {
+		"escape-regexp": "0.0.1",
+		"mongoose" : ">=3.8.8"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+	"keywords": [
+		"lucene",
+		"mongo",
+		"mongodb",
+		"query",
+		"language",
+		"mongoose"
+	],
+	"license": "MIT"
+}
